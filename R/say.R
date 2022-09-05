@@ -1,3 +1,12 @@
+#' Whale function to print the message
+#'
+#' @param what a phrase
+#'
+#' @return the whale message
+#' @export
+#'
+#' @examples
+#' say("whatever you want")
 say <- function(what){
   #Defining the whale ASCII
   whale = "\n            ------ \n           %s \n            ------ \n               \\\   \n                \\\  \n                 \\\
