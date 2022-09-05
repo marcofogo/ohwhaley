@@ -1,0 +1,13 @@
+Package: ohwhaley
+Title: Summons a whale and a fun phrase
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marco", "Fogolin", , "marco.fogolin@students.mq.edu.au", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Summons a whale for a customisable pick me up.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magrittr
