@@ -11,5 +11,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Imports: 
     magrittr
-URL: https://github.com/marcofogo/ohwhaley
+URL: https://github.com/marcofogo/ohwhaley,
+    https://marcofogo.github.io/ohwhaley/
 BugReports: https://github.com/marcofogo/ohwhaley/issues
